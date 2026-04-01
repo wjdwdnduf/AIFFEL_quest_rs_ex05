@@ -45,4 +45,5 @@
 
 # 회고(참고 링크 및 코드 개선)
 
-
+- A survey of loss functions for semantic segmentation 논문
+https://arxiv.org/abs/2006.14822v4
