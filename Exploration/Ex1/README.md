@@ -24,7 +24,8 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - <img width="497" height="497" alt="image" src="https://github.com/user-attachments/assets/12b5ed07-c9be-49f8-bffe-79a9303e37ed" />
-        - <img width="1241" height="1241" alt="image" src="https://github.com/user-attachments/assets/c99f5f7f-a82c-426b-b1f3-7d26a7ef795e" />
+        - <img width="1313" height="1350" alt="image" src="https://github.com/user-attachments/assets/0ddd0c8c-d0b6-426a-ba30-c0fcfddb8420" />
+
 
 
 
