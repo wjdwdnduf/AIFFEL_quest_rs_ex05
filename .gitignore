@@ -1,1 +1,29 @@
 scripts/
+
+
+# venv folder 
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# python cache file 
+__pycache__/
+*.py[cod]
+
+
+
+# 데이터셋 제외
+Exploration/Ex2/data/
+
+# 학습된 모델 가중치 제외
+*.pth
+*.h5
+
+# 시스템 파일 제외
+.DS_Store
+__pycache__/
+
+Exploration/Ex2/class-based/
